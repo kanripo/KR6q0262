@@ -1,0 +1,6 @@
+001-0342a00	X 001-0342a	buddhist/X-xuzang/X68/03/X68-0342.png
+001-0342b00	X 001-0342b	buddhist/X-xuzang/X68/03/X68-0342.png
+001-0342c00	X 001-0342c	buddhist/X-xuzang/X68/03/X68-0342.png
+001-0343a00	X 001-0343a	buddhist/X-xuzang/X68/03/X68-0343.png
+001-0343b00	X 001-0343b	buddhist/X-xuzang/X68/03/X68-0343.png
+001-0343c00	X 001-0343c	buddhist/X-xuzang/X68/03/X68-0343.png
